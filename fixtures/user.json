@@ -1,0 +1,21 @@
+[
+	{
+		"is_active": 1,
+		"username": "john.doe",
+		"password": "johndoe",
+		"email": "john.doe@gmail.com",
+		"fullname": "John Doe"
+	}, {
+		"is_active": 1,
+		"username": "jane.doe",
+		"password": "janedoe",
+		"email": "jane.doe@gmail.com",
+		"fullname": "Jane Doe"
+	}, {
+		"is_active": 0,
+		"username": "johnny.doe",
+		"password": "johnnydoe",
+		"email": "johnny.doe@gmail.com",
+		"fullname": "Johnny Doe"
+	}
+]
